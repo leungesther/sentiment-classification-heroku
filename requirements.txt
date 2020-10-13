@@ -5,4 +5,4 @@ scikit-learn==0.23.2
 beautifulsoup4==4.9.1
 regex==2020.7.14
 nltk==3.5
-
+lxml==4.5.2
